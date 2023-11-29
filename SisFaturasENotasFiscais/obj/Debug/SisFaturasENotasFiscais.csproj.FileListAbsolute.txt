@@ -1,0 +1,16 @@
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\bin\Debug\SisFaturasENotasFiscais.exe.config
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\bin\Debug\SisFaturasENotasFiscais.exe
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\bin\Debug\SisFaturasENotasFiscais.pdb
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\bin\Debug\Guna.UI2.dll
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.csproj.AssemblyReference.cache
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.Cadastros.FrmUsuarios.resources
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.FrmLogin.resources
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.FrmMenuPrincipal.resources
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.Properties.Resources.resources
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.csproj.GenerateResource.cache
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.csproj.CopyComplete
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.exe
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.pdb
+C:\Users\Eduardo Almeida\source\repos\SisFaturasENotasFiscais\SisFaturasENotasFiscais\obj\Debug\SisFaturasENotasFiscais.Cadastros.FrmProdutos.resources
